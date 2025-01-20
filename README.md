@@ -1,25 +1,18 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
-
-Description of the app ...
-
-## Demo App
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
-
-## GitHub Codespaces
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## 🧁 Recipe:
+1. Sign up on GitHub
+2. Sign up on https://streamlit.io/
+3. Connect streamlit with Github
+4. Use template Streamlit app-starter-kit on GitHub to create a new repository
+5. Update requirements.txt equivalent of importing libraries
+streamlit
+numpy
+pandas
+scikit-learn
+6. create app in Stremlit
+7. Deploy an app from GitHub
+8. Edit streamlit_app.py (in our case streamlit_app_done)
+10. Import the dataset
+11. data preparation
+12. from sklearn.ensemble import RandomForestClassifier: https://scikit-learn.org/stable/index.html
+Classification/random forest
+13. prediction
